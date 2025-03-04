@@ -1,4 +1,4 @@
-1. Clone the repository First, you need to clone the repository to your local machine. Run this command in your terminal or command prompt:git clone https://github.com/609harsh/Cryptocurrency-Dashboard.git
+1. Clone the repository First, you need to clone the repository to your local machine. Run this command in your terminal or command prompt:git clone https://github.com/DATABASESK/dashboard-crypto/.git
 
 2. Navigate to the project folder Change into the newly cloned directory by running: cd Cryptocurrency-Dashboard
 
